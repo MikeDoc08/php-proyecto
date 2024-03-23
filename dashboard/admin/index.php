@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Administracion</h1>
+    <p>Hola</p>
 </body>
 </html>
