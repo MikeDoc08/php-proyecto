@@ -6,12 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Administracion</h1>
-    <p>Hola</p>
-<<<<<<< HEAD
-    <a href="#">Here</a>
-=======
-    <a></a>
->>>>>>> master
+    <h1>Página Admin</h1>
+    <p>Binvenidos a la página de administración</p>
 </body>
 </html>
