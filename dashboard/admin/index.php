@@ -8,6 +8,5 @@
 <body>
     <h1>Administracion</h1>
     <p>Hola</p>
-    <a></a>
 </body>
 </html>
