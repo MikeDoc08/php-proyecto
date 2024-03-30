@@ -6,9 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Presentacion del Home</h1>
-    <p>cambios</p>
-    <a href="#">Here</a>
-    <p></p>
+    <h1>Home</h1>
+    <p>Bienvenidos a Home</p>
 </body>
 </html>
