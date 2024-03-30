@@ -8,6 +8,10 @@
 <body>
     <h1>Administracion</h1>
     <p>Hola</p>
+<<<<<<< HEAD
     <a href="#">Here</a>
+=======
+    <a></a>
+>>>>>>> master
 </body>
 </html>
