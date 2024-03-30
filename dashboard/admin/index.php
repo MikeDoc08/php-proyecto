@@ -6,8 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Administracion</h1>
-    <p>Hola</p>
-    <a></a>
+    <h1>Página Admin</h1>
+    <p>Binvenidos a la página de administración</p>
 </body>
 </html>
