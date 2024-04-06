@@ -1,0 +1,136 @@
+* {
+   
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: white;
+    height: 110vh;
+}
+
+.Navegacion {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    padding: 0 50px;
+    background-color: aqua;
+}
+
+.Navegacion h2{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Navegacion ul{
+    display: flex;
+}
+
+.Navegacion ul li{
+    list-style: none;
+    margin-right: 25px;
+    transition: color 0.3s ease;
+    color: black;
+    
+}
+.Navegacion ul li:hover{
+    color: white;
+}
+
+.Navegacion h2 {
+    border: 50px;
+    padding: 50px 30 px;
+    font-size: 16 px;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: background-color 0.3 ease;
+    text-align: center;
+}
+.boton_cerrar  {
+    padding: 5px 10px;
+    background-color: aqua;
+    color: black;
+    border:0 ;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.boton_cerrar:hover {
+    background-color: rgb(23, 11, 185);
+}
+
+
+
+.Navegacion h3:hover {
+    background-color: aqua;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+
+article{
+    height: 550px;
+    padding-top: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left:200px ;
+    right:  150px;
+    font-size: large;
+}
+
+.FotoPerfil{
+    width: 300px;
+    height: 350px;
+    border-radius: 10%/10%;
+}
+
+aside {
+    background-image:url( "background.jpg.jpg");
+    background-position: right;
+    
+
+}   
+
+.lista_lateral li {
+    color:white;
+    font-family: "poppins", sans-serif;
+    position: relative;
+    padding: 20px;
+}
+
+ul.breadcrumb {
+    padding: 8px 16px;
+    list-style: none;
+    background-color:aqua;
+}
+ul.breadcrumb li {display: inline;}
+ul.breadcrumb li+li:before {
+    padding: 8px;
+    color: black;
+    content: "/\00a0";
+}
+ul.breadcrumb a:link, ul.breadcrumb a:visited {
+    text-decoration:none;
+    color: black;
+}
+
+ul.breadcrumb li a.active {
+    color: black;
+    font-weight: bold;
+}
+ul.breadcrumb li a.active:hover {
+    color:black;
+    font-weight: bold;
+}
+
+
