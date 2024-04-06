@@ -11,6 +11,7 @@ if(!isset($_SESSION["id"]) || empty($_SESSION["id"])){
     exit;
 }
 ?>
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
